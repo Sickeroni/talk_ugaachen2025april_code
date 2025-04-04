@@ -1,0 +1,6 @@
+# hand written file
+# please take care of " (\") and <> !
+[
+{ "include": ["<outside.hpp>", "private", "<outside_redir.hpp>", "public"] },
+{ "include": ["\"inside.hpp\"", "private", "\"inside_redir.hpp\"", "public"] }
+]
